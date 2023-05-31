@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 <div align="center">
   <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api?username=IvanNascimento&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&title_color=d81b60" height="200">
   
-  <hr />
-  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanNascimento&show_icons=true&locale=en&layout=compact&theme=ocean_dark&title_color=d81b60" alt="IvanNascimento" />
 
 </div>
@@ -44,8 +42,8 @@ Here are some ideas to get you started:
   <img  alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
    &nbsp;
   
-<!--   <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  &nbsp; -->
+  <img alt="NextJS" src="https://img.shields.io/badge/sequelize-000000?style=for-the-badge&logo=sequelize&logoColor=white"/>
+  &nbsp;
  <img alt="Styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   &nbsp;
  <img alt="Node js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
