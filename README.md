@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanNascimento&show_icons=true&locale=en&layout=compact&theme=ocean_dark&title_color=d81b60" alt="IvanNascimento" />
 
 </div>
+<hr/>
 
 <div align='center'>
 <a height="150em" href="http://www.github.com/IvanNascimento"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanNascimento&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
