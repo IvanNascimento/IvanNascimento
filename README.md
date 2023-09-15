@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 
 ## Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ivanlsnascimento/)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/0ukii/)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](discordapp.com/users/0ukii)
+[![Reddit](https://img.shields.io/badge/reddit-000?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/IvanNascimento)
+[![Beecrowd](https://img.shields.io/badge/beecrowd-000?style=for-the-badge&logo=beecrowd)](https://www.beecrowd.com.br/judge/pt/profile/131686)
 
 ## Habilidades
 ### Geral
