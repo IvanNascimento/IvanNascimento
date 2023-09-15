@@ -14,10 +14,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Introdução
+- 👋 Olá, eu sou @IvanNascimento
+- 🌱 Atualmente estou aprendendo Flutter
+- :deciduous_tree: Já possuo bastante conhecimento em Java, Javascript, Python e Typescript.
 
-- 👋 Hi, I’m @IvanNascimento
-- 🌱 I’m currently learning NodeJs, Reactjs and TypeScript
+## Formação Acadêmica
+ - Técnico em Informática, IFPB - Campus Picuí
+ - Técnico em Eletrônica, IFPB - Campus Picuí
+ - Graduando em Tecnologia em Sistemas para a Internet, IFPB - Campus Picuí;
 
+## Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ivanlsnascimento/)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/0ukii/)
+
+## Habilidades
+### Geral
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)](https://git-scm.com/doc) 
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
+
+### Marcação e Estilo
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor=264CE4)
+
+### Programação
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Arduino](https://img.shields.io/badge/Arduino-000?style=for-the-badge&logo=Arduino)
+
+### Bibliotecas e Frameworks
+![NodeJs](https://img.shields.io/badge/NodeJs-000?style=for-the-badge&logo=javascript)
+![ExpressJs](https://img.shields.io/badge/ExpressJs-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+
+
+<hr/>
 <div align="center">
   <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api?username=IvanNascimento&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&title_color=d81b60" height="200">
 
@@ -34,22 +68,3 @@ Here are some ideas to get you started:
 
 
 <hr/>
-
-<div align="center">
-
-  <img alt="JavaScript-logo" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    &nbsp;
-  <img alt="React-logo" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    &nbsp;
-  <img  alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-   &nbsp;
-  
-  <img alt="NextJS" src="https://img.shields.io/badge/sequelize-000000?style=for-the-badge&logo=sequelize&logoColor=white"/>
-  &nbsp;
- <img alt="Styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-  &nbsp;
- <img alt="Node js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  &nbsp;
-<!-- <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/> -->
-</div>
-  <br/>
