@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Introdução
 - 👋 Olá, eu sou @IvanNascimento
-- 🌱 Atualmente estou aprendendo Flutter
+- 🌱 Atualmente estou aprendendo Dart e Flutter
 - :deciduous_tree: Já possuo bastante conhecimento em Java, Javascript, Python e Typescript.
 
 ## Formação Acadêmica
@@ -31,27 +31,52 @@ Here are some ideas to get you started:
 [![Beecrowd](https://img.shields.io/badge/beecrowd-000?style=for-the-badge&logo=beecrowd)](https://www.beecrowd.com.br/judge/pt/profile/131686)
 
 ## Habilidades
-### Geral
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/)
+### Gerais
+![Excel](https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoft-excel)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-000?style=for-the-badge&logo=Raspberry-Pi)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=MySQL)
+![NoSQL](https://img.shields.io/badge/NoSQL-000?style=for-the-badge&logo=postgresql)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Heroku](https://img.shields.io/badge/heroku-000?style=for-the-badge&logo=heroku)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=Firebase)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)](https://git-scm.com/doc) 
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://docs.github.com/)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000?style=for-the-badge&logo=digitalOcean)
+<!-- ![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws) -->
 
 ### Marcação e Estilo
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor=264CE4)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)
 
 ### Programação
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Arduino](https://img.shields.io/badge/Arduino-000?style=for-the-badge&logo=Arduino)
+![Shell Script](https://img.shields.io/badge/shell_script-000?style=for-the-badge&logo=gnu-bash)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript)
+![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=Dart)
+<!-- ![Lua](https://img.shields.io/badge/lua-000?style=for-the-badge&logo=lua) -->
 
 ### Bibliotecas e Frameworks
-![NodeJs](https://img.shields.io/badge/NodeJs-000?style=for-the-badge&logo=javascript)
-![ExpressJs](https://img.shields.io/badge/ExpressJs-000?style=for-the-badge&logo=javascript)
+![jQuery](https://img.shields.io/badge/jquery-000?style=for-the-badge&logo=jquery)
+![p5js](https://img.shields.io/badge/p5.js-000?style=for-the-badge&logo=p5.js)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
+![NodeJs](https://img.shields.io/badge/NodeJs-000?style=for-the-badge&logo=node.js)
+![NPM](https://img.shields.io/badge/NPM-000?style=for-the-badge&logo=npm)
+![ExpressJs](https://img.shields.io/badge/ExpressJs-000?style=for-the-badge&logo=express)
+![Sequelize](https://img.shields.io/badge/Sequelize-000?style=for-the-badge&logo=Sequelize)
+![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=Flutter)
 
+### Ferramentas de teste
+![PyTest](https://img.shields.io/badge/PyTest-000?style=for-the-badge&logo=python)
+![Jest](https://img.shields.io/badge/-jest-000?style=for-the-badge&logo=jest)
+![Mocha](https://img.shields.io/badge/-mocha-000?style=for-the-badge&logo=mocha)
 
 <hr/>
 <div align="center">
