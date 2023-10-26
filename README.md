@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)
 
-### Programação
+### Programação e Script
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Arduino](https://img.shields.io/badge/Arduino-000?style=for-the-badge&logo=Arduino)
 ![Shell Script](https://img.shields.io/badge/shell_script-000?style=for-the-badge&logo=gnu-bash)
